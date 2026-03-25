@@ -5,6 +5,7 @@ MI_DATA_PATH = './data/MI2Class/'
 SAMPLING_RATE = 250 
 LOW_FREQ = 1
 HIGH_FREQ = 40
+BATCH_SIZE = 32
 
 BCI_MAPPING = {
     
