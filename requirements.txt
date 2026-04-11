@@ -1,3 +1,9 @@
 braindecode
 torch
 mne
+torch 
+pathlib
+matplotlib
+seaborn
+scikit-learn
+scipy
